@@ -1,1 +1,3 @@
-# GGC-Useful-Code
+# CS-Useful-Code
+
+For CyberStart Challenges
